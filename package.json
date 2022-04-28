@@ -1,0 +1,22 @@
+{
+  "name": "test-devjs",
+  "version": "1.0.0",
+  "description": "Rozwiązanie zadania konkursowego Monogo JavaScript Challenge",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Javier66pazdan/test-devjs.git"
+  },
+  "author": "Gabriel Pazdan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Javier66pazdan/test-devjs/issues"
+  },
+  "homepage": "https://github.com/Javier66pazdan/test-devjs#readme",
+  "dependencies": {
+    "node-fetch": "^2.6.7"
+  }
+}
